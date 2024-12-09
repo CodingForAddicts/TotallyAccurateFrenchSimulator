@@ -8,7 +8,8 @@
 This project is a **C# simulation of a French-themed board game**, where players can:  
 - Take control of legendary characters like Asterix, Obelix, and Caesar.  
 - Build Roman camps, manage units, and engage in epic battles.  
-- Utilize utilities to strategize and outmaneuver opponents.  
+- Utilize utilities to strategize and outmaneuver opponents.
+- Use Controled randomization
 
 From cunning Roman strategies to Gaulish brute strength, **Totally Accurate French Simulator** delivers an entertaining experience full of iconic moments! 🛡️🏛️  
 
