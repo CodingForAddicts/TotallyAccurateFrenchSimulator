@@ -17,6 +17,8 @@ board.PrintBoard();
 
 // TESTING (update the usings + readd the Board configs for some tests to test the functions)
 
+// Tranferred from Board.cs 
+
 // Console.WriteLine("=== Testing FindRightmostTargets ===");
 //
 // // Test 1: Empty Board
